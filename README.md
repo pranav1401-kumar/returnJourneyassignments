@@ -1,8 +1,8 @@
 # returnJourneyassignments
 
-
+TO install packages : npm install
 To run : node index.ts
-
+Change db 
 Retrieve all Products
 URL: /api/products
 Method: GET
